@@ -34,3 +34,9 @@ Botão de submissão estilizado
 Adicionar validação em JavaScript
 
 Integrar banco de dados (ex: Firebase)
+
+
+![pagina incial](https://github.com/user-attachments/assets/c344aeb6-f454-4b62-864a-2a4068bbfb2c)
+
+
+![pagina cadastro](https://github.com/user-attachments/assets/f509af93-a7db-4c5a-9142-e9a4b5e0e983)
